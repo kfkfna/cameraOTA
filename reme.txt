@@ -1,0 +1,7 @@
+账户密码
+admin   RedbeeAdmin
+Client  RedbeeUser
+User    RedbeeUser
+
+
+https://gitee.com/kfkfk/camera-ota.git
